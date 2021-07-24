@@ -1,5 +1,4 @@
 ### Hi there, I'm Dhrumil 👋
-**Role** - Develop, Debug, Deliver.  
 A Backend developer with around 3 years of experience. Working experience of monolith as well as microservice architecture.
 <br />
 
