@@ -5,15 +5,19 @@ A Backend developer with around 3 years of experience. Working experience of mon
 ### Skills:
 <ul>
   <li>API Design knowledge</li>  
-  <li>Node.js</li>  
+  <li>Node.js</li>
   <li>Express.js</li>  
   <li>Loopback 4</li>  
+  <li>Golang</li>
+  <li>Postgres</li>
   <li>MongoDB</li>  
-  <li>MySQL</li>  
+  <li>MySQL</li>
   <li>Elasticsearch</li>  
   <li>Redis</li>  
   <li>RabbitMQ</li>  
-  <li>Microservices (Orchestration) </li>  
+  <li>Microservices (Orchestration) </li>
+  <li>AWS</li>
+  <li>Kubernetes</li>
 </ul>
 
 
