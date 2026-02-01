@@ -2,6 +2,12 @@
 A Backend developer with around 7.5 years of experience. Working experience of monolith as well as microservice architecture.
 <br />
 
+
+<!-- GITHUB_STATS_START -->
+Loading GitHub stats...
+<!-- GITHUB_STATS_END -->
+
+
 ### Skills:
 <ul>
   <li>API Design knowledge</li>  
