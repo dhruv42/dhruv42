@@ -2,7 +2,7 @@
 A Backend developer with around 7.5 years of experience. Working experience of monolith as well as microservice architecture.
 <br />
 
-![Dhrumil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv42&show_icons=true)
+[![Dhrumil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv42)](https://github.com/dhruv42/github-readme-stats)
 
 ### Skills:
 <ul>
