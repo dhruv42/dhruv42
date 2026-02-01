@@ -4,7 +4,6 @@ A Backend developer with around 7.5 years of experience. Working experience of m
 
 
 <!-- GITHUB_STATS_START -->
-Loading GitHub stats...
 <!-- GITHUB_STATS_END -->
 
 
