@@ -7,7 +7,7 @@ A Backend developer with around 7.5 years of experience. Working experience of m
 
 - **10** years on GitHub
 - **33** commits
-- **1** pull requests
+- **6** pull requests
 - **0** issues opened
 - **4** stars received (across my public repos)
 - **0** public repositories contributed to
